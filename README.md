@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript  & Python
 - 💞️ I’m looking to collaborate on any good project I can be of Value.
 - 📫 How to reach me nelsonkinyanjui246@gmail.com
-- X @kinyanjuinm
+- X @serversandcoffee
 - In @kinyanjuinelson
 - 😄 Pronouns: Indie Hacker
 - ⚡ Fun fact: Shipping a Startup soon. Can't get good.
