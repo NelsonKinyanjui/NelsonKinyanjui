@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NelsonKinyanjui
+- 👋 Hi, I’m @NelsonKinyanjui.
 - 👀 I’m interested in Server Side Programming ,Security and AI.
 - 🌱 I’m currently learning Javascript  & Python
 - 💞️ I’m looking to collaborate on any good project I can be of Value.
